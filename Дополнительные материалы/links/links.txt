@@ -1,0 +1,5 @@
+http://code.google.com/p/ie7-js/ - для :last-child в IE8:
+http://www.colorzilla.com/gradient-editor/ - строит градиенты
+http://css3pie.com/ - градиенты, бордеры и размытие для ie
+
+http://www.my-debugbar.com/wiki/IETester/HomePage - скачать IE-tester
